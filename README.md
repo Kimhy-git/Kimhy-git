@@ -1,4 +1,8 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=a7dca5&height=150&section=header&text=Kim's%20GitHub&fontSize=50&fontColor=#000000)
+
+#### 🌱 성장하고 있는 백엔드 개발자입니다.
+
+
 
 <!--
 **Kimhy-git/Kimhy-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
